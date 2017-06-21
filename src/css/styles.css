@@ -1,0 +1,60 @@
+.testing {
+  width: 71.42857%; }
+
+li {
+  color: red; }
+
+body {
+  background: #34495e; }
+
+.concrete {
+  background: #95a5a6; }
+
+.clouds {
+  background: #ecf0f1;
+  color: #999; }
+
+footer {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 100px;
+  width: 100%;
+  background-color: #ecf0f1; }
+
+.wetasphalt {
+  background: #34495e; }
+
+.words {
+  color: #8e44ad; }
+
+#container {
+  height: 100%;
+  width: 100%; }
+
+.container {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto; }
+
+.table {
+  border-radius: 5px;
+  width: 50%;
+  margin: 0px auto;
+  float: none; }
+
+.toptable {
+  padding-top: 1em; }
+
+.chips {
+  padding: 2em;
+  text-align: center; }
+
+.chips span {
+  margin-right: 20px;
+  text-align: center; }
+
+.chips span .mdl-chip__text {
+  text-align: center;
+  margin: 0 auto; }
